@@ -13,15 +13,15 @@ const config = {
   social: {
 
     twitter: 'saisonaai',
-    facebook: '',
-    linkedin: 'ariful-alam',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
+//     facebook: '',
+//     linkedin: 'ariful-alam',
+//     instagram: '',
+//     dribbble: '',
+//     behance: '',
+//     medium: 'arifszn',
+//     dev: 'arifszn',
+//     stackoverflow: '', // format: userid/username
+    website: 'https://asidefine.tistory.com/',
     phone: '',
     email: 'maze0717@g.skku.com',
   },
@@ -103,7 +103,7 @@ const config = {
   ],
 
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
+  /* blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
@@ -115,7 +115,7 @@ const config = {
   hotjar: {
     id: '',
     snippetVersion: 6,
-  },
+  }, */
   themeConfig: {
     defaultTheme: 'business',
 
