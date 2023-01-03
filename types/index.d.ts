@@ -227,6 +227,12 @@ export interface ExternalProjects {
   imageUrl?: string;
   link: string;
 }
+export interface Award {
+  title: string;
+  description: string;
+  imageUrl?: string;
+  link: string;
+}
 
 export interface Publications {
   title: string;
@@ -283,6 +289,12 @@ export interface Config {
    */
   externalProjects?: Array<ExternalProjects>;
 
+  
+  /**
+   * Awards
+   */
+  awards?: Array<Award>;
+  
   /**
    * Publications
    */
