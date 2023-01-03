@@ -39,6 +39,7 @@ const config = {
     'NLP',
     'GNN',
     'Computational Social Science',
+    'Multimodal'
   ],
   experiences: [
     {
