@@ -37,18 +37,25 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Sungkyunkwan University',
+      position: 'Master Student',
+      from: 'September 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'http://dsail.skku.edu/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
+      company: 'Korea Institute of Science and Technology (KIST)',
+      position: 'Intern',
+      from: 'September 2021',
+      to: 'January 2022',
+      companyLink: 'https://www.kist.re.kr/',
+    },
+    {
+      company: 'Sungkyunkwan University',
+      position: 'Intern',
+      from: 'June 2021',
       to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: 'http://dsail.skku.edu/',
     },
   ],
   /* certifications: [
@@ -61,16 +68,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Sungkyunkwan University',
+      degree: 'Bachelor of Artificial Intelligence',
+      from: '2019',
+      to: '2022',
     },
   ],
 
@@ -93,7 +94,7 @@ const config = {
   ],
 
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
+  /* blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
@@ -105,7 +106,7 @@ const config = {
   hotjar: {
     id: '',
     snippetVersion: 6,
-  },
+  },*/
   themeConfig: {
     defaultTheme: 'business',
 
