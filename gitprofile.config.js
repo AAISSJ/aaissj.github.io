@@ -93,11 +93,19 @@ const config = {
   ],
    awards: [
     {
-      title: 'Project Name',
+      title: '1st prize in the Competition of Development for Life Improvement Application ',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'SKKU Institute for Convergence, Sungkyunkwan University',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
+    },
+   {
+      title: 'Honors BA in AAI, summa cum laude (GPA 4.23)',
+      description:
+        'Sungkyunkwan University',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+      
     },
   ],
   publication: [
@@ -109,25 +117,13 @@ const config = {
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
     },
   ],
   fellows: [
     {
-      title: 'Project Name',
+      title: 'GCO2011: Introduction to Machine Learning (Fall, 2022)',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Sungkyunkwan University, ',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
