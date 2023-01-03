@@ -142,7 +142,7 @@ const Fellow = ({ fellows, loading, googleAnalytics }) => {
                         skeleton({ width: 'w-40', height: 'h-8' })
                       ) : (
                         <span className="text-base-content opacity-70">
-                          Research Projects
+                          Teaching Fellow
                         </span>
                       )}
                     </h5>
