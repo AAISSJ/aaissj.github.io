@@ -164,6 +164,7 @@ export const sanitizeConfig = (config) => {
     skills: config?.skills || [],
     interests: config?.interests || [],
     externalProjects: config?.externalProjects || [],
+    awards: config?.awards || [],
     publication: config?.publication || [],
     experiences: config?.experiences || [],
     certifications: config?.certifications || [],
