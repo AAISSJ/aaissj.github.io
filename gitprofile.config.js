@@ -92,7 +92,7 @@ const config = {
       link: 'https://example.com',
     },
   ],
-  Publications: [
+  publication: [
     {
       title: 'Project Name',
       description:
