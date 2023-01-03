@@ -28,7 +28,7 @@ import { formatDistance } from 'date-fns';
 
 import ExternalProject from './external-project';
 import Publications from './publications';
-
+import Interest from './interests';
 
 const bgColor = 'bg-base-300';
 
@@ -184,6 +184,10 @@ const GitProfile = ({ config }) => {
                         loading={loading}
                         skills={sanitizedConfig.skills}
                       />
+                      <Interest
+                        loading={loading}
+                        interests={sanitizedConfig.interests}
+                      />
                       <Experience
                         loading={loading}
                         experiences={sanitizedConfig.experiences}
@@ -283,6 +287,7 @@ GitProfile.propTypes = {
       email: PropTypes.string,
     }),
     skills: PropTypes.array,
+    interests: PropTypes.array,
     externalProjects: PropTypes.arrayOf(
       PropTypes.shape({
         title: PropTypes.string.isRequired,
