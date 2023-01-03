@@ -30,6 +30,7 @@ import ExternalProject from './external-project';
 import Publications from './publications';
 import Interest from './interest';
 import Award from './awards';
+import Fellow from './fellows';
 
 const bgColor = 'bg-base-300';
 
@@ -226,6 +227,11 @@ const GitProfile = ({ config }) => {
                         publication={sanitizedConfig.publication}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
                       />
+                      <Fellow
+                        loading={loading}
+                        fellows={sanitizedConfig.fellows}
+                        googleAnalytics={sanitizedConfig.fellows}
+                      />
                       <Blog
                         loading={loading}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
@@ -311,6 +317,14 @@ GitProfile.propTypes = {
       })
     ),
     publication: PropTypes.arrayOf(
+      PropTypes.shape({
+        title: PropTypes.string.isRequired,
+        description: PropTypes.string.isRequired,
+        link: PropTypes.string.isRequired,
+        imageUrl: PropTypes.string,
+      })
+    ),
+    fellows: PropTypes.arrayOf(
       PropTypes.shape({
         title: PropTypes.string.isRequired,
         description: PropTypes.string.isRequired,
