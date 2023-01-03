@@ -13,13 +13,13 @@ const config = {
   social: {
 
     twitter: 'saisonaai',
-    /* facebook: '',
+    facebook: '',
     linkedin: 'ariful-alam',
     instagram: '',
     dribbble: '',
     behance: '',
     medium: 'arifszn',
-    dev: 'arifszn',*/
+    dev: 'arifszn',
     stackoverflow: '', // format: userid/username
     website: 'https://arifszn.com',
     phone: '',
