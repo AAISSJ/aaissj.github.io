@@ -2,47 +2,38 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'aaissj', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 4, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
+
+    twitter: 'saisonaai',
+    /* facebook: '',
     linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
     medium: 'arifszn',
-    dev: 'arifszn',
+    dev: 'arifszn',*/
     stackoverflow: '', // format: userid/username
     website: 'https://arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'maze0717@g.skku.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'python',
+    'PyTorch',
+    'C/C++',
+    'Java',
   ],
   experiences: [
     {
