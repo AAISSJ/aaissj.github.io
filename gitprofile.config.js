@@ -116,8 +116,6 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-    {
-    },
   ],
   fellows: [
     {
