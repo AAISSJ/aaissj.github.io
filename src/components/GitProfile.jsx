@@ -29,6 +29,7 @@ import { formatDistance } from 'date-fns';
 import ExternalProject from './external-project';
 import Publications from './publications';
 import Interest from './interest';
+import Award from './awards';
 
 const bgColor = 'bg-base-300';
 
@@ -214,6 +215,11 @@ const GitProfile = ({ config }) => {
                         loading={loading}
                         externalProjects={sanitizedConfig.externalProjects}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
+                      />
+                      <Award
+                        loading={loading}
+                        externalProjects={sanitizedConfig.awards}
+                        googleAnalytics={sanitizedConfig.awards}
                       />
                       <Publications
                         loading={loading}
