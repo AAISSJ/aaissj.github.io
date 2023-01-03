@@ -267,6 +267,12 @@ export interface Config {
    */
   skills?: Array<string>;
 
+  
+  /**
+   * Interest list
+   */
+  interests?: Array<string>;
+  
   /**
    * Experience list
    */
