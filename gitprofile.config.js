@@ -133,6 +133,13 @@ const config = {
       imageUrl: 'https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2062&q=80',
       link: 'https://example.com',
     },
+    {
+      title: '4th AI X BOOKATHON contest',
+      description:
+        'Sungkyunkwan University',
+      imageUrl: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+      link: 'https://bookathon.skku.edu/',
+    },
   ],
   themeConfig: {
     defaultTheme: 'business',
