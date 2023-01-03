@@ -78,18 +78,11 @@ const config = {
   // To hide the `Other Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'National Research Foundation of Korea (NRF)',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '[May 2022 - Apr 2024] Developing Artificial Intelligence Models and Korean Datasets for Detecting Suicide Risk',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://www.nrf.re.kr/eng/main/',
     },
   ],
   publication: [
