@@ -28,7 +28,7 @@ import { formatDistance } from 'date-fns';
 
 import ExternalProject from './external-project';
 import Publications from './publications';
-import Interest from './interests';
+import Interest from './interest';
 
 const bgColor = 'bg-base-300';
 
