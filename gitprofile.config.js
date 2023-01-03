@@ -35,11 +35,7 @@ const config = {
     'C/C++',
     'Java',
   ],
-  interests: [
-    'NLP',
-    'GNN',
-    'Computational Social Science',
-  ],
+
   experiences: [
     {
       company: 'Sungkyunkwan University',
