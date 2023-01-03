@@ -241,6 +241,13 @@ export interface Publications {
   link: string;
 }
 
+export interface Fellow {
+  title: string;
+  description: string;
+  imageUrl?: string;
+  link: string;
+}
+
 export interface Education {
   institution?: string;
   degree?: string;
@@ -300,6 +307,10 @@ export interface Config {
    */
   publication?: Array<Publications>;
   
+  /**
+   * Teaching Fellows
+   */
+  fellows?: Array<Fellow>;
   
   /**
    * Certifications list
