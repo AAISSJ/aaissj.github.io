@@ -181,7 +181,7 @@ const Details = ({ profile, loading, social, github }) => {
               {social?.website && (
                 <ListItem
                   icon={<FaGlobe className="mr-2" />}
-                  title="Website:"
+                  title="Blog:"
                   value={social.website}
                   link={social.website}
                 />
