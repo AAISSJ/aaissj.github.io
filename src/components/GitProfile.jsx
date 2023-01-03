@@ -218,7 +218,7 @@ const GitProfile = ({ config }) => {
                       />
                       <Award
                         loading={loading}
-                        externalProjects={sanitizedConfig.awards}
+                        awards={sanitizedConfig.awards}
                         googleAnalytics={sanitizedConfig.awards}
                       />
                       <Publications
@@ -295,6 +295,14 @@ GitProfile.propTypes = {
     skills: PropTypes.array,
     interests: PropTypes.array,
     externalProjects: PropTypes.arrayOf(
+      PropTypes.shape({
+        title: PropTypes.string.isRequired,
+        description: PropTypes.string.isRequired,
+        link: PropTypes.string.isRequired,
+        imageUrl: PropTypes.string,
+      })
+    ),
+    awards: PropTypes.arrayOf(
       PropTypes.shape({
         title: PropTypes.string.isRequired,
         description: PropTypes.string.isRequired,
