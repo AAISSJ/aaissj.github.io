@@ -104,8 +104,8 @@ const config = {
       title: '1st prize in App Development Hackathon ',
       description:
         '2021, SKKU Institute for Convergence, Sungkyunkwan University',
-      imageUrl: 'https://user-images.githubusercontent.com/50725139/103212324-d03e8600-494d-11eb-9a24-fa8e7081bd10.jpeg',
-      link: 'https://example.com',
+      imageUrl: 'https://images.unsplash.com/photo-1514820720301-4c4790309f46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80',
+      link: 'https://user-images.githubusercontent.com/50725139/103212324-d03e8600-494d-11eb-9a24-fa8e7081bd10.jpeg',
     },
     {
       title: '1st prize in Web applied AI Development Hackathon ',
