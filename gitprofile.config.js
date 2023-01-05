@@ -118,7 +118,7 @@ const config = {
       title: '1st prize in AI applied App/Web Development Hackathon ',
       description:
         '2020, SKKU Institute for Convergence, Sungkyunkwan University',
-      imageUrl: 'https://images.unsplash.com/photo-1578269174936-2709b6aeb913?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80',
+      imageUrl: 'https://images.unsplash.com/photo-1578269174936-2709b6aeb913?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80',
       link: 'https://example.com',
     },
 
