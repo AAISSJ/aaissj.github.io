@@ -34,6 +34,7 @@ const config = {
     'PyTorch',
     'C/C++',
     'Java',
+    'HTML/CSS'
   ],
   interests: [
     'NLP',
