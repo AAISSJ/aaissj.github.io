@@ -14,7 +14,7 @@ const config = {
 
     twitter: 'saisonaai',
 //     facebook: '',
-//     linkedin: 'ariful-alam',
+     linkedin: 'wandering1717',
 //     instagram: '',
 //     dribbble: '',
 //     behance: '',
