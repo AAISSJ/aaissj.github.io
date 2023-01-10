@@ -39,6 +39,7 @@ const config = {
   interests: [
     'NLP',
     'GNN',
+    'Mental Health',
     'Computational Social Science',
     'Multimodal'
   ],
