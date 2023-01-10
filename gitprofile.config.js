@@ -14,7 +14,7 @@ const config = {
 
     twitter: 'saisonaai',
 //     facebook: '',
-     linkedin: 'wandering1717',
+     linkedin: 'sejung_son',
 //     instagram: '',
 //     dribbble: '',
 //     behance: '',
