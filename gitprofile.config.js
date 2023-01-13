@@ -150,9 +150,9 @@ const config = {
       link: 'https://example.com',
     },
     {
-      title: '4th SKKU AI X BOOKATHON contest',
+      title: '4th AI X BOOKATHON Contest',
       description:
-        'Sungkyunkwan University',
+        'Online AI Writing Contest,Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
       link: 'https://bookathon.skku.edu/',
     },
