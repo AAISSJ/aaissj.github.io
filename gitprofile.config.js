@@ -66,14 +66,14 @@ const config = {
       companyLink: 'http://dsail.skku.edu/',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Driver&lsquo;s license',
+      body: 'Korea The Road Traffic Authority',
+      year: 'December, 2016',
       link: 'https://example.com'
     },
-  ], */
+  ],
   education: [
     {
       institution: 'Sungkyunkwan University',
@@ -97,7 +97,7 @@ const config = {
      {
       title: 'Full Tuition Scholarship (granted for full semesters)',
       description:
-        '2022.08 ~ 2024.02 , Sungkyunkwan University',
+        'August 2022 ~ February 2024 , Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1579389083078-4e7018379f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80',
       link: 'https://example.com',
       
