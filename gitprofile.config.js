@@ -69,7 +69,7 @@ const config = {
   certifications: [
     {
       name: 'Driver\'\s license',
-      body: 'Korea The Road Traffic Authority',
+      body: 'Korea Road Traffic Authority',
       year: 'December, 2016',
       link: 'https://example.com'
     },
