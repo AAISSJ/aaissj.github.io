@@ -45,13 +45,6 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Sungkyunkwan University',
-      position: 'Master Student',
-      from: 'September 2022',
-      to: 'Present',
-      companyLink: 'http://dsail.skku.edu/',
-    },
-    {
       company: 'Korea Institute of Science and Technology (KIST)',
       position: 'Intern / 3D Pose Estimation',
       from: 'September 2021',
@@ -75,6 +68,12 @@ const config = {
     },
   ],
   education: [
+     {
+      institution: 'Sungkyunkwan University',
+      degree: 'Master Student',
+      from: 'September 2022',
+      to: 'Present',
+    },
     {
       institution: 'Sungkyunkwan University',
       degree: 'Bachelor of Applied Artificial Intelligence',
