@@ -93,14 +93,7 @@ const config = {
     },
   ],
    awards: [
-    {
-      title: '16th Prize, ADReSS-M SPGC Challenge (Multilingual Alzheimer`s Dementia Recognition through Spontaneous Speech)',
-      description:
-        'February 2023, ICASSP 2023',
-      imageUrl: 'https://images.unsplash.com/photo-1520799275532-15f68640b66b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80',
-      link: 'https://luzs.gitlab.io/madress-2023/',
-      
-    },
+
      {
       title: 'Academic Excellence Scholarship (Full Tuition, granted for full semesters)',
       description:
