@@ -152,7 +152,7 @@ const config = {
       title: 'GCO2003-1: Foundations of Convergence Science (Spring, 2023)',
       description:
         'Sungkyunkwan University',
-      imageUrl: 'https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2062&q=80',
+      imageUrl: 'https://images.unsplash.com/photo-1588702547954-4800ead296ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80',
       link: 'https://example.com',
     },
     {
