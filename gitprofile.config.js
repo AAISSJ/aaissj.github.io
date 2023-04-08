@@ -44,15 +44,22 @@ const config = {
   ],
   experiences: [
     {
+      company: 'Sungkyunkwan University, Data Science & Artificial Inteligence Laboratory',
+      position: 'Research Intern ',
+      from: 'February 2022',
+      to: 'August 2022',
+      companyLink: 'http://dsail.skku.edu/',
+    },
+    {
       company: 'Korea Institute of Science and Technology (KIST)',
-      position: 'Intern / 3D Pose Estimation',
+      position: 'Research Intern / 3D Pose Estimation',
       from: 'September 2021',
       to: 'January 2022',
       companyLink: 'https://www.kist.re.kr/',
     },
     {
-      company: 'Sungkyunkwan University',
-      position: 'Intern / QA system',
+      company: 'Sungkyunkwan University, Data Science & Artificial Inteligence Laboratory',
+      position: 'Research Intern / QA system',
       from: 'June 2021',
       to: 'August 2021',
       companyLink: 'http://dsail.skku.edu/',
