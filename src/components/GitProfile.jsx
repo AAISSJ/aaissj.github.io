@@ -308,7 +308,7 @@ GitProfile.propTypes = {
         imageUrl: PropTypes.string,
       })
     ),
-    awards: PropTypes.arrayOf(
+    publication: PropTypes.arrayOf(
       PropTypes.shape({
         title: PropTypes.string.isRequired,
         description: PropTypes.string.isRequired,
@@ -316,7 +316,7 @@ GitProfile.propTypes = {
         imageUrl: PropTypes.string,
       })
     ),
-    publication: PropTypes.arrayOf(
+    awards: PropTypes.arrayOf(
       PropTypes.shape({
         title: PropTypes.string.isRequired,
         description: PropTypes.string.isRequired,
