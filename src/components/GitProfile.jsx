@@ -217,15 +217,15 @@ const GitProfile = ({ config }) => {
                         externalProjects={sanitizedConfig.externalProjects}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
                       />
-                      <Award
-                        loading={loading}
-                        awards={sanitizedConfig.awards}
-                        googleAnalytics={sanitizedConfig.awards}
-                      />
                       <Publications
                         loading={loading}
                         publication={sanitizedConfig.publication}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
+                      />
+                      <Award
+                        loading={loading}
+                        awards={sanitizedConfig.awards}
+                        googleAnalytics={sanitizedConfig.awards}
                       />
                       <Fellow
                         loading={loading}
