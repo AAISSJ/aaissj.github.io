@@ -100,9 +100,9 @@ const config = {
   ],
   publication: [
     {
-      title: 'Project Name',
+      title: 'Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Daeun Lee, Sejung Son, Hyolim Jeon, Chaewon Park, Jihyun An, Seungbae Kim, and Jinyoung Han*, In ACM SIGKDD, Aug. 2023.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
