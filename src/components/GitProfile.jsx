@@ -206,6 +206,11 @@ const GitProfile = ({ config }) => {
                   </div>
                   <div className="lg:col-span-2 col-span-1">
                     <div className="grid grid-cols-1 gap-6">
+                      <Publications
+                        loading={loading}
+                        publication={sanitizedConfig.publication}
+                        googleAnalytics={sanitizedConfig.googleAnalytics}
+                      />
                       <Project
                         repo={repo}
                         loading={loading}
@@ -215,11 +220,6 @@ const GitProfile = ({ config }) => {
                       <ExternalProject
                         loading={loading}
                         externalProjects={sanitizedConfig.externalProjects}
-                        googleAnalytics={sanitizedConfig.googleAnalytics}
-                      />
-                      <Publications
-                        loading={loading}
-                        publication={sanitizedConfig.publication}
                         googleAnalytics={sanitizedConfig.googleAnalytics}
                       />
                       <Award
