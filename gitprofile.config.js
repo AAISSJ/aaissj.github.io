@@ -98,7 +98,7 @@ const config = {
       link: 'https://www.nrf.re.kr/eng/main/',
     },
   ],
-    publication: [
+  publication: [
     {
       title: 'Project Name',
       description:
@@ -154,15 +154,7 @@ const config = {
       link: 'https://example.com',
     },
   ],
-  publication: [
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
-  ],
+
   fellows: [
     {
       title: 'GCO2003-1: Foundations of Convergence Science (Spring, 2023)',
