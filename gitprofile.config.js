@@ -91,9 +91,16 @@ const config = {
   // To hide the `Other Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'National Research Foundation of Korea (NRF)',
+      title: 'Developing Artificial Intelligence Models and Korean Datasets for Detecting Suicide Risk',
       description:
-        '[May 2022 - Apr 2024] Developing Artificial Intelligence Models and Korean Datasets for Detecting Suicide Risk',
+        'May 2022 - Apr 2024, National Research Foundation of Korea (NRF)',
+      imageUrl: 'https://www.etri.re.kr/images/kor/sub5/ci_img01.png',
+      link: 'https://www.etri.re.kr/kor/main/main.etri',
+    },
+    {
+      title: 'Content Planning and Human-AI Interaction Design for AI-based Digital Therapy Services',
+      description:
+        'Jun 2022 - Nov 2022, Electronics and Telecommunications Research Institute (ETRI)',
       imageUrl: 'https://www.nrf.re.kr/eng/resources/img/page/footer/img-footer-logo-p.png',
       link: 'https://www.nrf.re.kr/eng/main/',
     },
@@ -133,21 +140,21 @@ const config = {
       
     },
     {
-      title: '1st prize in AI applied App/Web Development Hackathon ',
+      title: '🏆 1st prize in AI applied App/Web Development Hackathon ',
       description:
         '2021, SKKU Institute for Convergence, Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1555983341-918bc5fa8495?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80',
       link: 'https://example.com',
     },
     {
-      title: '1st prize in App Development Hackathon ',
+      title: '🏆 1st prize in App Development Hackathon ',
       description:
         '2021, SKKU Institute for Convergence, Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1514820720301-4c4790309f46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80',
       link: 'https://user-images.githubusercontent.com/50725139/103212324-d03e8600-494d-11eb-9a24-fa8e7081bd10.jpeg',
     },
     {
-      title: '1st prize in AI applied App/Web Development Hackathon ',
+      title: '🏆 1st prize in AI applied App/Web Development Hackathon ',
       description:
         '2020, SKKU Institute for Convergence, Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1578269174936-2709b6aeb913?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80',
