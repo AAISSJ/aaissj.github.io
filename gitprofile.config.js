@@ -94,15 +94,16 @@ const config = {
       title: 'Developing Artificial Intelligence Models and Korean Datasets for Detecting Suicide Risk',
       description:
         'May 2022 - Apr 2024, National Research Foundation of Korea (NRF)',
-      imageUrl: 'https://www.etri.re.kr/images/kor/sub5/ci_img01.png',
-      link: 'https://www.etri.re.kr/kor/main/main.etri',
+      imageUrl: 'https://www.nrf.re.kr/eng/resources/img/page/footer/img-footer-logo-p.png',
+      link: 'https://www.nrf.re.kr/eng/main/',
+
     },
     {
       title: 'Content Planning and Human-AI Interaction Design for AI-based Digital Therapy Services',
       description:
         'Jun 2022 - Nov 2022, Electronics and Telecommunications Research Institute (ETRI)',
-      imageUrl: 'https://www.nrf.re.kr/eng/resources/img/page/footer/img-footer-logo-p.png',
-      link: 'https://www.nrf.re.kr/eng/main/',
+      imageUrl: 'https://www.etri.re.kr/images/kor/sub5/ci_img01.png',
+      link: 'https://www.etri.re.kr/kor/main/main.etri',
     },
   ],
   publication: [
