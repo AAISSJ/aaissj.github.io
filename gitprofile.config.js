@@ -112,10 +112,10 @@ const config = {
       description:
         'Daeun Lee, Sejung Son, Hyolim Jeon, Seungbae Kim, and Jinyoung Han*, In ACM SIGKDD, Aug. 2023.',
       imageUrl: 'https://images.unsplash.com/photo-1620585837584-5e50abfc24c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80',
-      link: 'https://example.com',
+      link: 'https://kdd.org/kdd2023/',
     },
     {
-      title: 'A Multilingual Multimodal Model for Diagnosing Dementia \n (KCC, 2023)',
+      title: 'A Multilingual Multimodal Model for Diagnosing Dementia',
       description:
         'Sejung Son, Daeun Lee, and Jinyoung Han*, In Korea Computer Congress, Jun. 2023.',
       imageUrl: 'https://images.unsplash.com/photo-1559757175-5700dde675bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80',
