@@ -114,6 +114,13 @@ const config = {
       imageUrl: 'https://images.unsplash.com/photo-1620585837584-5e50abfc24c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80',
       link: 'https://example.com',
     },
+    {
+      title: 'A Multilingual Multimodal Model for Diagnosing Dementia (KCC, 2023)',
+      description:
+        'Sejung Son, Daeun Lee, and Jinyoung Han*, In Korea Computer Congress, Jun. 2023.',
+      imageUrl: 'https://images.unsplash.com/photo-1559757175-5700dde675bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80',
+      link: 'https://www.kiise.or.kr/conference/kcc/2023/',
+    },
   ],
    awards: [
     {
