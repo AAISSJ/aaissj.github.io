@@ -91,10 +91,18 @@ const config = {
   // To hide the `Other Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'SKT AI Fellowship : Realizing personalized marketing through the introduction of AI copywriters',
+      description:
+        'May 2023 - Oct 2023, SK Telecom, Generation Controllable Hyper-Personalization Marketing ',
+      imageUrl: 'https://www.nrf.re.kr/eng/resources/img/page/footer/img-footer-logo-p.png',
+      link: 'https://www.sktuniv.com/d39a1e85-822f-4ab7-baf9-f45b80b30a50',
+
+    },
+    {
       title: 'Developing Artificial Intelligence Models and Korean Datasets for Detecting Suicide Risk',
       description:
         'May 2022 - Apr 2024, National Research Foundation of Korea (NRF)',
-      imageUrl: 'https://www.nrf.re.kr/eng/resources/img/page/footer/img-footer-logo-p.png',
+      imageUrl: 'https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0360bab1-3f56-401f-93a9-1948d2ba17af%2Fcopy_01.png&blockId=97c3e454-5ee0-4939-b12c-b14a334a3c35',
       link: 'https://www.nrf.re.kr/eng/main/',
 
     },
