@@ -91,7 +91,7 @@ const config = {
   // To hide the `Other Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'SKT AI Fellowship : Realizing personalized marketing through the introduction of AI copywriters',
+      title: '[SKT AI Fellowship] Realizing personalized marketing through the introduction of AI copywriters',
       description:
         'May 2023 - Oct 2023, SK Telecom, Generation Controllable Hyper-Personalization Marketing ',
       imageUrl: 'https://devocean.sk.com/CKFinderJava/userfiles/images/AI%20Fellowship%20Logo.png',
@@ -116,7 +116,7 @@ const config = {
   ],
   publication: [
     {
-      title: 'Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning (KDD, 2023)',
+      title: '[KDD 2023] Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning',
       description:
         'Daeun Lee, Sejung Son, Hyolim Jeon, Seungbae Kim, and Jinyoung Han*, In ACM SIGKDD, Aug. 2023.',
       imageUrl: 'https://images.unsplash.com/photo-1620585837584-5e50abfc24c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80',
@@ -132,7 +132,7 @@ const config = {
   ],
    awards: [
     {
-      title: '16th Prize, ADReSS-M SPGC Challenge (Multilingual Alzheimer`s Dementia Recognition through Spontaneous Speech)',
+      title: '[ICASSP 2023] 16th Prize, ADReSS-M SPGC Challenge (Multilingual Alzheimer`s Dementia Recognition through Spontaneous Speech)',
       description:
         'February 2023, ICASSP 2023',
       imageUrl: 'https://images.unsplash.com/photo-1520799275532-15f68640b66b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80',
