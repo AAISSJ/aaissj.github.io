@@ -183,8 +183,8 @@ const config = {
       title: 'Undergraduate Research Program (Summer, 2023)',
       description:
         'June 2023 - July 2023, Sungkyunkwan University',
-      imageUrl: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-      link: 'https://bookathon.skku.edu/',
+      imageUrl: 'https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80',
+      link: 'https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=106186&article.offset=0&articleLimit=10',
     },
     {
       title: 'GCO2003-1: Foundations of Convergence Science (Spring, 2023)',
