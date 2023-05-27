@@ -93,7 +93,7 @@ const config = {
     {
       title: '[SKT AI Fellowship] Realizing personalized marketing through the introduction of AI copywriters',
       description:
-        'May 2023 - Oct 2023, SK Telecom, Generation Controllable Hyper-Personalization Marketing ',
+        'May 2023 - October 2023, SK Telecom, Generation Controllable Hyper-Personalization Marketing ',
       imageUrl: 'https://devocean.sk.com/CKFinderJava/userfiles/images/AI%20Fellowship%20Logo.png',
       link: 'https://www.sktuniv.com/d39a1e85-822f-4ab7-baf9-f45b80b30a50',
 
@@ -101,7 +101,7 @@ const config = {
     {
       title: 'Developing Artificial Intelligence Models and Korean Datasets for Detecting Suicide Risk',
       description:
-        'May 2022 - Apr 2024, National Research Foundation of Korea (NRF)',
+        'May 2022 - April 2024, National Research Foundation of Korea (NRF)',
       imageUrl: 'https://www.nrf.re.kr/eng/resources/img/page/footer/img-footer-logo-p.png',
       link: 'https://www.nrf.re.kr/eng/main/',
 
@@ -109,7 +109,7 @@ const config = {
     {
       title: 'Content Planning and Human-AI Interaction Design for AI-based Digital Therapy Services',
       description:
-        'Jun 2022 - Nov 2022, Electronics and Telecommunications Research Institute (ETRI)',
+        'June 2022 - November 2022, Electronics and Telecommunications Research Institute (ETRI)',
       imageUrl: 'https://www.etri.re.kr/images/kor/sub5/ci_img01.png',
       link: 'https://www.etri.re.kr/kor/main/main.etri',
     },
@@ -142,7 +142,7 @@ const config = {
      {
       title: 'Academic Excellence Scholarship (Full Tuition, granted for full semesters)',
       description:
-        'August 2022 ~ February 2024 , Sungkyunkwan University',
+        'August 2022 - February 2024 , Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1579389083078-4e7018379f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80',
       link: 'https://example.com',
       
@@ -150,7 +150,7 @@ const config = {
     {
       title: 'Summa Cum Laude, Honors BA in AAI',
       description:
-        'GPA 4.23, Sungkyunkwan University',
+        '2022, GPA 4.23, Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80',
       link: 'https://example.com',
       
@@ -180,11 +180,25 @@ const config = {
 
   fellows: [
     {
+      title: 'Undergraduate Research Program (Summer, 2023)',
+      description:
+        'June 2023 - July 2023, Sungkyunkwan University',
+      imageUrl: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+      link: 'https://bookathon.skku.edu/',
+    },
+    {
       title: 'GCO2003-1: Foundations of Convergence Science (Spring, 2023)',
       description:
         'Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1588702547954-4800ead296ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80',
       link: 'https://example.com',
+    },
+    {
+      title: '4th AI X BOOKATHON Contest',
+      description:
+        'January 2022, Online AI Writing Contest,Sungkyunkwan University / Sponsered by NAVER CLOVA & MINDs Lab',
+      imageUrl: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+      link: 'https://bookathon.skku.edu/',
     },
     {
       title: 'GCO2011: Introduction to Machine Learning (Fall, 2022)',
@@ -193,13 +207,7 @@ const config = {
       imageUrl: 'https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2062&q=80',
       link: 'https://example.com',
     },
-    {
-      title: '4th AI X BOOKATHON Contest',
-      description:
-        'Online AI Writing Contest,Sungkyunkwan University / Sponsered by NAVER CLOVA & MINDs Lab',
-      imageUrl: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-      link: 'https://bookathon.skku.edu/',
-    },
+
   ],
   themeConfig: {
     defaultTheme: 'business',
