@@ -113,6 +113,13 @@ const config = {
       imageUrl: 'https://www.etri.re.kr/images/kor/sub5/ci_img01.png',
       link: 'https://www.etri.re.kr/kor/main/main.etri',
     },
+    {
+      title: 'Study on Self-Driving B5G Networks towards Federared Private-5G',
+      description:
+        'June 2021 - February 2024, National Research Foundation (NRF) of Korea Grant funded by the Korean Government (MSIT) ',
+      imageUrl: 'https://www.nrf.re.kr/eng/resources/img/page/footer/img-footer-logo-p.png',
+      link: 'https://www.nrf.re.kr/eng/main/',
+    },
   ],
   publication: [
     {
