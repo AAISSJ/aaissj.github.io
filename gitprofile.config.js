@@ -153,7 +153,7 @@ const config = {
       
     },
      {
-      title: 'Academic Excellence Scholarship (Full Tuition, granted for full semesters)',
+      title: '✍️ Academic Excellence Scholarship (Full Tuition, granted for full semesters)',
       description:
         'August 2022 - February 2024 , Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1579389083078-4e7018379f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80',
@@ -161,7 +161,7 @@ const config = {
       
     },
     {
-      title: 'Summa Cum Laude, Honors BA in AAI',
+      title: '🎓 Summa Cum Laude, Honors BA in AAI',
       description:
         '2022, GPA 4.23, Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80',
