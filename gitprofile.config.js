@@ -217,7 +217,7 @@ const config = {
       title: 'Undergraduate Research Program (Fall, 2022)',
       description:
         'September 2022 - December 2022, Sungkyunkwan University',
-      imageUrl: 'https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80',
+      imageUrl: 'https://unsplash.com/ko/%EC%82%AC%EC%A7%84/XMFZqrGyV-Q',
       link: 'https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=106186&article.offset=0&articleLimit=10',
     },
     {
