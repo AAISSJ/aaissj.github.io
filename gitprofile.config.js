@@ -99,12 +99,18 @@ const config = {
 
     },
     {
+      title: 'Development of AI-based Voice of Customer (VoC) Analysis Solution for Improving Customer Experience (CX)',
+      description:
+        'April 2023 - December 2024, Kyungnam Energy',
+      imageUrl: 'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
+      link: 'https://www.knenergy.co.kr/index.do',
+    },
+    {
       title: 'Developing Artificial Intelligence Models and Korean Datasets for Detecting Suicide Risk',
       description:
         'May 2022 - April 2024, National Research Foundation of Korea (NRF)',
       imageUrl: 'https://www.nrf.re.kr/eng/resources/img/page/footer/img-footer-logo-p.png',
       link: 'https://www.nrf.re.kr/eng/main/',
-
     },
     {
       title: 'Content Planning and Human-AI Interaction Design for AI-based Digital Therapy Services',
