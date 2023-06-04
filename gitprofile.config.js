@@ -102,7 +102,7 @@ const config = {
       title: 'Development of AI-based Voice of Customer (VoC) Analysis Solution for Improving Customer Experience (CX)',
       description:
         'April 2023 - December 2024, Kyungnam Energy',
-      imageUrl: 'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
+      imageUrl: 'https://jpassets.jobplanet.co.kr/production/uploads/company_story/thumbnail/1114/w750_3a70fa4c-4612-4d0e-a991-dfa545728325.jpg',
       link: 'https://www.knenergy.co.kr/index.do',
     },
     {
