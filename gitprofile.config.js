@@ -193,7 +193,7 @@ const config = {
 
   fellows: [
     {
-      title: 'Undergraduate Research Program (Summer, 2023)',
+      title: 'Undergraduate Research Program (Summer, 2023) : Sign Language Translation',
       description:
         'June 2023 - July 2023, Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80',
@@ -214,7 +214,7 @@ const config = {
       link: 'https://bookathon.skku.edu/',
     },
     {
-      title: 'Undergraduate Research Program (Fall, 2022)',
+      title: 'SKKU Co-Deep Learning (Fall, 2022) : AI-assisted taxi service for people with disabilities',
       description:
         'September 2022 - December 2022, Sungkyunkwan University',
       imageUrl: 'https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1050&q=80',
