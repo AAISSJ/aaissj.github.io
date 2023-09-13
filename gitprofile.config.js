@@ -193,6 +193,14 @@ const config = {
 
   fellows: [
     {
+      title: 'GCO2011: Introduction to Machine Learning (Fall, 2023)',
+      description:
+        'Sungkyunkwan University',
+      imageUrl: 'https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2062&q=80',
+      link: 'https://example.com',
+    },
+
+    {
       title: 'Undergraduate Research Program (Summer, 2023) : Sign Language Translation',
       description:
         'June 2023 - July 2023, Sungkyunkwan University',
