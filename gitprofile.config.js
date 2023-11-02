@@ -129,11 +129,18 @@ const config = {
   ],
   publication: [
     {
+      title: '[EMNLP 2023] Learning Co-Speech Gesture for Multimodal Aphasia Type Detection',
+      description:
+        'Daeun Lee**, Sejung Son**, Hyolim Jeon, Seungbae Kim, and Jinyoung Han*, In EMNLP, Dec. 2023.',
+      imageUrl: 'https://images.unsplash.com/photo-1620585837584-5e50abfc24c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80',
+      link: 'https://arxiv.org/abs/2310.11710/',
+    },
+    {
       title: '[KDD 2023] Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning',
       description:
         'Daeun Lee, Sejung Son, Hyolim Jeon, Seungbae Kim, and Jinyoung Han*, In ACM SIGKDD, Aug. 2023.',
       imageUrl: 'https://images.unsplash.com/photo-1620585837584-5e50abfc24c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80',
-      link: 'https://kdd.org/kdd2023/',
+      link: 'https://arxiv.org/abs/2307.00995',
     },
     {
       title: 'A Multilingual Multimodal Model for Diagnosing Dementia',
