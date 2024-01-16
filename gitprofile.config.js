@@ -152,6 +152,14 @@ const config = {
   ],
    awards: [
     {
+      title: 'Best Researcher Awards',
+      description:
+        'January 2024, Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)',
+      imageUrl: 'https://images.unsplash.com/photo-1578269174936-2709b6aeb913?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      link: 'https://xai.skku.edu/skkuaai/notice.do?mode=view&articleNo=167174&article.offset=0&articleLimit=10',
+      
+    },
+    {
       title: '[ICASSP 2023] 16th Prize, ADReSS-M SPGC Challenge (Multilingual Alzheimer`s Dementia Recognition through Spontaneous Speech)',
       description:
         'February 2023, ICASSP 2023',
