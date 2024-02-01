@@ -162,9 +162,8 @@ const config = {
       title: '[CLPsych 2024] 5th Prize, Shared Task (Utilising LLMs for finding supporting evidence about an individual’s suicide risk level)',
       description:
         'January 2024, Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)',
-      imageUrl: 'https://images.unsplash.com/photo-1578269174936-2709b6aeb913?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      link: 'https://xai.skku.edu/skkuaai/notice.do?mode=view&articleNo=167174&article.offset=0&articleLimit=10',
-      
+      imageUrl: 'https://images.unsplash.com/photo-1608493830924-ec843d9c98c6?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      link: 'https://clpsych.org/shared-task-2024/',
     },
      {
       title: '🏆 Best Researcher Awards',
