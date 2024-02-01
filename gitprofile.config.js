@@ -143,6 +143,13 @@ const config = {
       link: 'https://arxiv.org/abs/2307.00995',
     },
     {
+      title: 'A Dual-Prompting for Interpretable Mental Health Language Models',
+      description:
+        ' Jeon, H.**, You, D.**, Lee, D., Son, S., Kim, S., & Han, J.*, In The 9th Workshop on Computational Linguistics & Clinical Psychology',
+      imageUrl: 'https://images.unsplash.com/photo-1608493830924-ec843d9c98c6?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      link: '',
+    },
+    {
       title: 'A Multilingual Multimodal Model for Diagnosing Dementia',
       description:
         'Sejung Son, Daeun Lee, and Jinyoung Han*, In Korea Computer Congress, Jun. 2023.',
@@ -151,6 +158,14 @@ const config = {
     },
   ],
    awards: [
+    {
+      title: '[CLPsych 2024] 5th Prize, ',
+      description:
+        'January 2024, Department of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)',
+      imageUrl: 'https://images.unsplash.com/photo-1578269174936-2709b6aeb913?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      link: 'https://xai.skku.edu/skkuaai/notice.do?mode=view&articleNo=167174&article.offset=0&articleLimit=10',
+      
+    },
      {
       title: '🏆 Best Researcher Awards',
       description:
