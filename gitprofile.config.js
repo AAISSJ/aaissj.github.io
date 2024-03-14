@@ -85,13 +85,13 @@ const config = {
       institution: 'Sungkyunkwan University',
       degree: 'Master Student',
       from: 'September 2022',
-      to: 'Present',
+      to: 'February 2024',
     },
     {
       institution: 'Sungkyunkwan University',
       degree: 'Bachelor of Applied Artificial Intelligence',
-      from: '2019',
-      to: '2022',
+      from: 'March 2019',
+      to: 'August 2022',
     },
   ],
 
