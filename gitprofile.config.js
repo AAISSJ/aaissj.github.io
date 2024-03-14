@@ -146,7 +146,7 @@ const config = {
       title: '[NAACL 2024] Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning',
       description:
         'Daeun Lee**, Hyolim Jeon**, Sejung Son, Chaewon Park, Jihyun An, Seungbae Kim, and Jinyoung Han*, The North American Chapter of the Association for Computational Linguistics 2024',
-      imageUrl: 'https://images.unsplash.com/photo-1608493830924-ec843d9c98c6?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      imageUrl: 'https://images.unsplash.com/photo-1592806088932-05058af0ad8d?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       link: '',
     },
     {
