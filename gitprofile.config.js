@@ -142,8 +142,15 @@ const config = {
       imageUrl: 'https://images.unsplash.com/photo-1620585837584-5e50abfc24c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80',
       link: 'https://arxiv.org/abs/2307.00995',
     },
+  {
+      title: '[NAACL 2024] Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning',
+      description:
+        'Daeun Lee**, Hyolim Jeon**, Sejung Son, Chaewon Park, Jihyun An, Seungbae Kim, and Jinyoung Han*, The North American Chapter of the Association for Computational Linguistics 2024',
+      imageUrl: 'https://images.unsplash.com/photo-1608493830924-ec843d9c98c6?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      link: '',
+    },
     {
-      title: '[CLPsych 2024] A Dual-Prompting for Interpretable Mental Health Language Models',
+      title: '[EACL workshop CLPsych 2024] A Dual-Prompting for Interpretable Mental Health Language Models',
       description:
         ' Jeon, H.**, You, D.**, Lee, D., Son, S., Kim, S., & Han, J.*, In The 9th Workshop on Computational Linguistics & Clinical Psychology',
       imageUrl: 'https://images.unsplash.com/photo-1608493830924-ec843d9c98c6?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
