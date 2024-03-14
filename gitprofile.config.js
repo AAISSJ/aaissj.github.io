@@ -44,6 +44,13 @@ const config = {
   ],
   experiences: [
     {
+      company: 'Samsung SDS',
+      position: '2024 Samsung SDS Algorithm Lecture Course Participant',
+      from: 'February 2024',
+      to: 'February 2024',
+      companyLink: '',
+    },
+    {
       company: 'Sungkyunkwan University, Data Science & Artificial Inteligence Laboratory',
       position: 'Research Intern ',
       from: 'February 2022',
