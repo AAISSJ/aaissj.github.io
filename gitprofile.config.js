@@ -161,7 +161,7 @@ const config = {
       description:
         ' Jeon, H.**, You, D.**, Lee, D., Son, S., Kim, S., & Han, J.*, In The 9th Workshop on Computational Linguistics & Clinical Psychology',
       imageUrl: 'https://images.unsplash.com/photo-1608493830924-ec843d9c98c6?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      link: '',
+      link: 'https://aclanthology.org/2024.clpsych-1.24.pdf',
     },
     {
       title: '[KCC 2023] A Multilingual Multimodal Model for Diagnosing Dementia',
