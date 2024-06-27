@@ -43,6 +43,13 @@ const config = {
     'Multimodal'
   ],
   experiences: [
+      {
+      company: 'NAVER Cloud',
+      position: 'Research Intern',
+      from: 'July 2024',
+      to: 'September 2024',
+      companyLink: '',
+    },
     {
       company: 'Samsung SDS',
       position: '2024 Samsung SDS Algorithm Lecture Course Participant',
