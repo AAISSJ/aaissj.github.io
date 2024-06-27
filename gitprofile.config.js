@@ -45,7 +45,7 @@ const config = {
   experiences: [
       {
       company: 'NAVER Cloud',
-      position: 'Research Intern',
+      position: 'Research Intern / Natural Language Processing for Speech Synthesis',
       from: 'July 2024',
       to: 'September 2024',
       companyLink: '',
