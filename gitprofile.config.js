@@ -44,6 +44,12 @@ const config = {
   ],
   experiences: [
       {
+      company: 'NHN',
+      position: 'AI Research Engineer',
+      from: 'Feb. 2025',
+      companyLink: '',
+    },
+    {
       company: 'NAVER Cloud',
       position: 'Research Intern / Natural Language Processing for Speech Synthesis',
       from: 'July 2024',
@@ -142,6 +148,13 @@ const config = {
     },
   ],
   publication: [
+    {
+      title: '[Interspeech 2025] Synthetic Data Generation for Phrase Break Prediction with Large Language Model',
+      description:
+        'Hoyeon Lee, Sejung Son, In Interspeech, Aug. 2025.',
+      imageUrl: 'https://images.unsplash.com/photo-1640158615573-cd28feb1bf4e?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      link: '
+    },
     {
       title: '[EMNLP 2023] Learning Co-Speech Gesture for Multimodal Aphasia Type Detection',
       description:
