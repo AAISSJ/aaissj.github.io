@@ -26,7 +26,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/13p1YJDRazLAFVylLRJpmFRQdEN4b7Xei/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'python',
@@ -154,6 +154,13 @@ const config = {
         'Daeun Lee**, Sejung Son**, Hyolim Jeon, Seungbae Kim, and Jinyoung Han*, In EMNLP, Dec. 2023.',
       imageUrl: 'https://images.unsplash.com/photo-1575707751065-42256084fbb7?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       link: 'https://arxiv.org/abs/2310.11710/',
+    },
+    {
+      title: '[Interspeech 2025] Synthetic Data Generation for Phrase Break Prediction with Large Language Model',
+      description:
+        'Hoyeon Lee, Sejung Son, In Interspeech, Aug. 2025.',
+      imageUrl: 'https://images.unsplash.com/photo-1575707751065-42256084fbb7?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      link: '
     },
     {
       title: '[KDD 2023] Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning',
