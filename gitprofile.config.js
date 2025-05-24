@@ -149,13 +149,6 @@ const config = {
   ],
   publication: [
     {
-      title: '[Interspeech 2025] Synthetic Data Generation for Phrase Break Prediction with Large Language Model',
-      description:
-        'Hoyeon Lee, Sejung Son, In Interspeech, Aug. 2025.',
-      imageUrl: 'https://images.unsplash.com/photo-1575707751065-42256084fbb7?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      link: '
-    },
-    {
       title: '[EMNLP 2023] Learning Co-Speech Gesture for Multimodal Aphasia Type Detection',
       description:
         'Daeun Lee**, Sejung Son**, Hyolim Jeon, Seungbae Kim, and Jinyoung Han*, In EMNLP, Dec. 2023.',
