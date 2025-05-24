@@ -152,7 +152,7 @@ const config = {
       title: '[Interspeech 2025] Synthetic Data Generation for Phrase Break Prediction with Large Language Model',
       description:
         'Hoyeon Lee, Sejung Son, In Interspeech, Aug. 2025.',
-      imageUrl: 'https://images.unsplash.com/photo-1640158615573-cd28feb1bf4e?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      imageUrl: 'https://images.unsplash.com/photo-1575707751065-42256084fbb7?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       link: '
     },
     {
